@@ -2,3 +2,6 @@
 bin/
 build/
 out/
+.idea/
+cmake-build*/
+
